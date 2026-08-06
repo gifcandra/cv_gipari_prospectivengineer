@@ -162,7 +162,7 @@ contactForm.addEventListener("submit", (e) => {
   // Format: 62 + nomor tanpa angka 0 di depan
   const nomorWhatsApp = "6281584069960";
 
-  const teksPesan = `Halo Gifari, saya ${nama}.
+  const teksPesan = `Halo Pak Gifari, saya ${nama}.
 
 Email saya: ${email}
 
