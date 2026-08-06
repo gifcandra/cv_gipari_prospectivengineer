@@ -160,9 +160,9 @@ contactForm.addEventListener("submit", (e) => {
 
   // Ganti nomor ini dengan nomor WhatsApp kamu
   // Format: 62 + nomor tanpa angka 0 di depan
-  const nomorWhatsApp = "6281953399673";
+  const nomorWhatsApp = "6281584069960";
 
-  const teksPesan = `Halo Robby, saya ${nama}.
+  const teksPesan = `Halo Gifari, saya ${nama}.
 
 Email saya: ${email}
 
