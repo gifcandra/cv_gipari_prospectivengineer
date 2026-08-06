@@ -160,16 +160,16 @@ contactForm.addEventListener("submit", (e) => {
 
   // Ganti nomor ini dengan nomor WhatsApp kamu
   // Format: 62 + nomor tanpa angka 0 di depan
-  const nomorWhatsApp = "+6281584069960";
+  const nomorWhatsApp = "6281953399673";
 
-  const teksPesan = `Halo Gifari, saya ${nama}.
+  const teksPesan = `Halo Robby, saya ${nama}.
 
 Email saya: ${email}
 
 Pesan:
 ${pesan}`;
 
-  const urlWhatsApp = `https://wa.me/${+6281584069960}?text=${encodeURIComponent(Assalamualaikum, apa kabar pak?)}`;
+  const urlWhatsApp = `https://wa.me/${nomorWhatsApp}?text=${encodeURIComponent(teksPesan)}`;
 
   window.open(urlWhatsApp, "_blank");
 
