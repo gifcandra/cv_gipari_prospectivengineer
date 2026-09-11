@@ -1,11 +1,11 @@
-# Website CV - M. Robby Saputra
+# Website CV - Gifari Candra Aji
 
-Website CV/Portfolio sederhana menggunakan HTML, CSS, dan JavaScript.
+Website CV Portfolio Gifari Candra Aji 
 
 ## Struktur File
 
 ```text
-cv-roby-website/
+cv-Gifari-Website/
 ├── index.html
 ├── style.css
 ├── script.js
