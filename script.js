@@ -45,9 +45,7 @@ themeToggle.addEventListener("click", () => {
 // =========================
 const typingText = document.getElementById("typingText");
 const words = [
-  "Web Developer",
-  "Mobile Developer",
-  "UI Enthusiast",
+  "Critical Thinking",
   "Problem Solver"
 ];
 
